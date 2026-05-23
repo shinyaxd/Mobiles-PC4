@@ -1,4 +1,4 @@
-package com.vksh2003.pc4mobiles.data
+package com.vksh2003.pc4mobiles.data.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
